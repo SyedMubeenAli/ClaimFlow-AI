@@ -1,0 +1,21 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# local data
+data/uploads/
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/policy_index/
+data/llm_cache/*
+!data/llm_cache/.gitkeep
+logs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+demo_output/

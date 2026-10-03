@@ -1,0 +1,11 @@
+streamlit>=1.40
+pandas>=1.5
+numpy>=1.24
+requests>=2.31
+python-dotenv>=1.0
+Pillow>=10.0
+pypdf>=5.0
+pymupdf>=1.24
+faiss-cpu>=1.8
+fastembed>=0.3
+reportlab>=4.0
